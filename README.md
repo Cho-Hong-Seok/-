@@ -1,4 +1,4 @@
-# 제주도 특산물 가격 예측
+# Jeju Island specialty food price forecast
 > 2024-1학기 빅데이터분석 기말 프로젝트
 ---
 
